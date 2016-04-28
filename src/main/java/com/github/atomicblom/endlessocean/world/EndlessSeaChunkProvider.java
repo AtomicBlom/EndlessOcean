@@ -15,7 +15,7 @@ import java.util.List;
 
 class EndlessSeaChunkProvider implements IChunkGenerator {
 
-    private static final IBlockState ground = Blocks.sand.getDefaultState();
+    private static final IBlockState ground = Blocks.SAND.getDefaultState();
 
     private final World world;
     private final long seed;

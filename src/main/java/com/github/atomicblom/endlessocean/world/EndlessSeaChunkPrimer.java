@@ -7,7 +7,7 @@ import net.minecraft.world.chunk.ChunkPrimer;
 
 @SuppressWarnings("deprecation") //base class uses BLOCK_STATE_IDS
 public class EndlessSeaChunkPrimer extends ChunkPrimer {
-    private static final IBlockState defaultState = Blocks.water.getDefaultState();
+    private static final IBlockState defaultState = Blocks.WATER.getDefaultState();
     private final char[] data = new char[65536];
 
     public EndlessSeaChunkPrimer()
