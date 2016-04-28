@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "endlessocean",
+  "name": "Endless Ocean",
+  "description": "You can't escape the sea",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "http://github.com/AtomicBlom/EndlessOcean",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["AtomicBlom"],
+  "credits": "The Forge and FML guys, TedyHere",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
